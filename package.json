@@ -1,0 +1,11 @@
+{
+    "name": "codes.tkg.scenetoolkit",
+    "version": "0.1.0",
+    "displayName": "Scene Toolkit",
+    "description": "Scene Toolkit a kit with some scene tools.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "author": {
+      "name": "Tomasz Galkowski"
+    }
+  }

@@ -1,0 +1,1 @@
+Scene Toolkit heavily uses a work of @marijnz under MIT license as found here https://github.com/marijnz/unity-toolbar-extender.
